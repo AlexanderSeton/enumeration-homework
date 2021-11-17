@@ -4,7 +4,8 @@
   "description": "",
   "main": "upper_caser.js",
   "scripts": {
-    "test": "mocha upper_caser_spec.js"
+    "test": "mocha upper_caser_spec.js", 
+    "mochaVersion": "mocha --version"
   },
   "keywords": [],
   "author": "",
